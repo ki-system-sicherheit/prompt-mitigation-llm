@@ -1,8 +1,8 @@
 ---
-base_model: google/flan-t5-base
+base_model: google/flan-t5-xl
 library_name: peft
 tags:
-- base_model:adapter:google/flan-t5-base
+- base_model:adapter:google/flan-t5-xl
 - lora
 - transformers
 ---

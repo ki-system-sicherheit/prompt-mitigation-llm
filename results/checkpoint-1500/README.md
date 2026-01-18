@@ -4,7 +4,6 @@ library_name: peft
 tags:
 - base_model:adapter:google/flan-t5-base
 - lora
-- transformers
 ---
 
 # Model Card for Model ID

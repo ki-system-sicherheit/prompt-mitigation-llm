@@ -3,7 +3,7 @@
   "alpha_pattern": {},
   "arrow_config": null,
   "auto_mapping": null,
-  "base_model_name_or_path": "google/flan-t5-base",
+  "base_model_name_or_path": "google/flan-t5-xl",
   "bias": "none",
   "corda_config": null,
   "ensure_weight_tying": false,
@@ -29,8 +29,8 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
-    "v",
-    "q"
+    "q",
+    "v"
   ],
   "target_parameters": null,
   "task_type": "SEQ_2_SEQ_LM",
